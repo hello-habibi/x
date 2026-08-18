@@ -1,0 +1,7 @@
+{
+    "sender": "Habib",
+    "receiver": "Masud",
+    "amount": 100,
+    "signature": "259cd87383d56f5101753a5d273890163855c38ac26ad53ccb1da4caad3a3afebb55ae463f2edc1432489d0843304182c9c002d0d127732e337002cc8a0198e7",
+    "public_key": "6f1d44f9b36b740ddbc6466368be3a470dbda314c811d84d8c114471927f46d4b15f148f4c3658cf8d55e16faf6be583ebfa7db3564d5575d307247f46e9c009"
+}
